@@ -1,0 +1,10 @@
+# Water: a reminder that pops the notch open every 15 minutes to drink water.
+id = "water"
+name = "Water"
+icon = "drop"
+size = "wide"
+run = ["python", "main.py"]
+page_size = [568, 300]
+description = "Reminds you to drink water every 15 minutes. Snooze or confirm on the popup; settings on the page."
+author = "Usman Sajid"
+version = "1.6.0"

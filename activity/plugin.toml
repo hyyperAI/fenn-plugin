@@ -1,0 +1,10 @@
+# Activity: asks what you did in the last N minutes and keeps a log you can review.
+id = "activity"
+name = "Activity"
+icon = "list-checks"
+size = "wide"
+run = ["python", "main.py"]
+page_size = [568, 300]
+description = "Asks what you did every 15 minutes, logs it with an optional note, and opens a dashboard of your day."
+author = "Usman Sajid"
+version = "1.6.1"

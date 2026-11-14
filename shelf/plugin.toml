@@ -1,0 +1,10 @@
+# Shelf: a shelf for the texts and prompts you copy often.
+id = "shelf"
+name = "Shelf"
+icon = "clipboard"
+size = "wide"
+run = ["python", "main.py"]
+page_size = [568, 300]
+description = "Keep the prompts and texts you paste often. Add, edit, delete and copy them in one click."
+author = "Usman Sajid"
+version = "1.0.0"
